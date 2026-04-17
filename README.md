@@ -13,7 +13,7 @@ AI-powered CRM system built using LangGraph workflows, FastAPI backend, and Reac
 - Python (FastAPI)
 - React.js
 - LangGraph
-- SQLite
+- PostgreSQL
 
 ## How to Run
 
